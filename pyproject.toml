@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "task-runner"
+name = "cron-task"
 version = "0.1.0"
 description = "Script runner based on interval"
 authors = ["Ngalim Siregar <ngalim.siregar@gmail.com>"]

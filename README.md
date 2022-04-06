@@ -1,4 +1,4 @@
-# task-runner
+# cron-task
 
 Simple task runner for pythonista
 
@@ -6,7 +6,7 @@ Simple task runner for pythonista
 ## Usage
 
 ```python
-from task_runner import Executor
+from cron_task import Executor
 
 def task():
     print('some task')
