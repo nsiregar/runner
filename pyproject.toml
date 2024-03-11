@@ -2,6 +2,9 @@
 name = "cron-task"
 version = "0.1.0"
 description = "Script runner based on interval"
+readme = "README.md"
+homepage = "https://github.com/nsiregar/runner"
+repository = "https://github.com/nsiregar/runner"
 authors = ["Ngalim Siregar <ngalim.siregar@gmail.com>"]
 license = "MIT"
 
